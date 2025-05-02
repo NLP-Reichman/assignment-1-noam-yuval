@@ -24,12 +24,12 @@
       "en_nl_3": 51.76088165632121
     },
     "test_generate": {
-      "english_2_gram": "I amoulpeginShmee bie ae",
-      "english_3_gram": "I amit: Lynmkm ways.",
-      "english_4_gram": "I Love gifts @OndMade a no",
-      "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
-      "spanish_3_gram": "Soy orbe",
-      "french_2_gram": "Je suis:/opapropades tprisl",
-      "french_3_gram": "Je suis tune"
+      "english_2_gram": "I amoulblvinPRW hernd ae",
+      "english_3_gram": "I amit",
+      "english_4_gram": "I Love (p<unk>",
+      "spanish_2_gram": "Soyell:/RT Tegucosie ea",
+      "spanish_3_gram": "Soye \ud83d\ude0d\ud83d\ude4a<unk>",
+      "french_2_gram": "Je suis:/kgny qGex qui @L T",
+      "french_3_gram": "Je suis tubeet ARadAerry @h"
     }
   }
