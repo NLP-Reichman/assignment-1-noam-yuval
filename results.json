@@ -14,14 +14,22 @@
       "en_on_tl": 59.8,
       "en_on_nl": 51.76
     },
-    "test_match": "KeyError('source')",
+    "test_match": {
+      "df_shape": [
+        256,
+        4
+      ],
+      "en_en_3": 23.072234433814685,
+      "en_tl_3": 59.795371199328855,
+      "en_nl_3": 51.76088165632121
+    },
     "test_generate": {
-      "english_2_gram": "",
-      "english_3_gram": "",
-      "english_4_gram": "",
-      "spanish_2_gram": "",
-      "spanish_3_gram": "",
-      "french_2_gram": "",
-      "french_3_gram": ""
+      "english_2_gram": "I amoulpeginShmee bie ae",
+      "english_3_gram": "I amit: Lynmkm ways.",
+      "english_4_gram": "I Love gifts @OndMade a no",
+      "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
+      "spanish_3_gram": "Soy orbe",
+      "french_2_gram": "Je suis:/opapropades tprisl",
+      "french_3_gram": "Je suis tune"
     }
   }
